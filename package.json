@@ -6,7 +6,7 @@
     "superhero-name-library": "^1.2.2"
   }
   
-  " "scripts": {
+  "scripts": {
               "start": "node app.js"
            }
 }
