@@ -47,7 +47,7 @@ app.post('/submit', (req, res) => {
 });
 
 // Start the server
-app.listen(process.env.PORT || 3000, () => {
-  console.log('Server started on port', process.env.PORT || 3000);
+app.listen(process.env.PORT || 3306=> {
+  console.log('Server started on port', process.env.PORT || 3306);
 });
 
