@@ -5,4 +5,8 @@
     "mysql2": "^3.3.0",
     "superhero-name-library": "^1.2.2"
   }
+  
+  " "scripts": {
+              "start": "node app.js"
+           }
 }
